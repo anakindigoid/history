@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: *?
+
+Sitemap: https://anakindigo.id/sitemap.xml
